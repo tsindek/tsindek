@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Tobias 👋
+- I like learning and expiriencing new things :books:
+- I like climbing and moving my body :monkey:
+- I like creating and repairing :wrench:
+- I'm currently learning web developing with CBE!
+
 
 <!--
 **tsindek/tsindek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

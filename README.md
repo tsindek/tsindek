@@ -2,7 +2,7 @@
 - I like learning and expiriencing new things :books:
 - I like climbing and moving my body :monkey:
 - I like creating and repairing :wrench:
-- I'm currently learning web developing with CBE!
+- I'm currently learning web developement!
 
 
 <!--

@@ -1,8 +1,8 @@
 ### Hi there, I'm Tobias 👋
-- I like learning and expiriencing new things :books:
-- I like climbing and moving my body :monkey:
-- I like creating and repairing :wrench:
-- I'm currently learning web developement!
+I'm a Webdeveloper from Cologne and also >>
+>> I like learning and expiriencing new things :books:
+>> I like climbing and moving my body :monkey:
+>> I like creating and repairing :wrench:
 
 
 <!--
